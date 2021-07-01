@@ -46,7 +46,8 @@ console.log(os.version());
   Kintu amer Linux e eta dile Release Date dekhai.
 */ 
 console.log(os.release());//Returns the operating system 
-
+console.log(os.homedir());//Returns home directory
+//Erokom:  /home/Anik
 
 
 
