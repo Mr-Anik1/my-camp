@@ -1,0 +1,22 @@
+{
+  "name": "core_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "OperatingSystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Anik1/my-camp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Anik1/my-camp/issues"
+  },
+  "homepage": "https://github.com/Mr-Anik1/my-camp#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
